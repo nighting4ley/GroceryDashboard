@@ -1,15 +1,12 @@
 # GroceryDashboard
-Microsoft PowerBI Dashboard of US Grocery Sales Data
 
-# US Grocery Retail Sales Analysis (2019–2023)
-
-An end-to-end analytics case study examining United States grocery retail sales trends, seasonal patterns, macroeconomic drivers, and holiday-driven demand spikes using **MySQL** and **Microsoft Power BI**.
+An end-to-end analytics case study examining United States grocery retail sales (2019–2023) trends, seasonal patterns, macroeconomic drivers, and holiday-driven demand spikes using **MySQL** and **Microsoft Power BI**.
 
 ---
 
-## 📌 Project Overview 🙂
+## 📌 Project Overview
 
-This project analyzes public datasets from the USDA, US Census Bureau, Bureau of Economic Analysis (BEA), and Bureau of Labor Statistics (BLS) to evaluate consumer spending behaviors across 43 states and 11 distinct grocery categories. 
+This project analyzes public datasets from the U.S. Department of Agriculture (USDA), US Census Bureau, Bureau of Economic Analysis (BEA), and Bureau of Labor Statistics (BLS) to evaluate consumer spending behaviors across 43 states and 11 distinct grocery categories. 
 
 The goal of this case study is to assist supermarket logistics and supply chain planning by identifying sales cycles, demand surges, and geographic spending patterns from October 2019 to May 2023.
 
@@ -20,7 +17,7 @@ The goal of this case study is to assist supermarket logistics and supply chain 
 * **USDA Economic Research Service (ERS) / Circana**: Weekly retail food sales scanner data (national totals, 54 subcategories, and state-level category data across 43 states).
 * **US Census Bureau**: 
   * *Statistics of U.S. Businesses (SUSB) 2021*: Enterprise sizes, store establishments, employment, and payroll for NAICS `44511` (*Supermarkets and Other Grocery Retailers*).
-  * *State Population Totals (2020–2023)*.
+  * *State Population Totals (2023)*.
 * **US Bureau of Economic Analysis (BEA)**: Annual current-dollar state Gross Domestic Product (2019–2023).
 * **US Bureau of Labor Statistics (BLS)**: Annual state unemployment rates (2019–2023).
 
@@ -71,5 +68,6 @@ The goal of this case study is to assist supermarket logistics and supply chain 
 ### Setup & Installation
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/us-grocery-analysis.git](https://github.com/your-username/us-grocery-analysis.git)
-   cd us-grocery-analysis
+   git clone [https://github.com/nighting4ley/GroceryDashboard.git](https://github.com/nighting4ley/GroceryDashboard.git)
+   cd GroceryDashboard
+   
