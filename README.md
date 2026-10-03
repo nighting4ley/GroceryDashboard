@@ -25,7 +25,7 @@ The goal of this case study is to assist supermarket logistics and supply chain 
 
 ## 🛠️ Tech Stack & Tools
 
-* **Database Engine**: MySQL Server
+* **Database Engine**: MySQL Server, Linux database server
 * **ETL & Data Cleaning**: Microsoft Excel, Notepad++, SQL scripts
 * **Data Visualization & Analytics**: Microsoft Power BI Desktop
 * **Key Visuals Used**: Line charts, Treemaps, Stacked bar charts, Craydec Regression visuals
